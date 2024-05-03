@@ -1,0 +1,9 @@
+.section-4{
+    max-width: 35.rem;
+    height: 28px;
+
+    display: grid;
+    grid-template-columns: 1ftr;
+    grid-template-rows: 4rem 8rem;
+    gap: 10px;
+}
